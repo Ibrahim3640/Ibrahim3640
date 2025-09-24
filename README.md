@@ -18,7 +18,7 @@ I have always been curious of how the digital world is created by software syste
 
 ## Projects
 
-Most of my projects will be in private so I would have to gives you access. However, one project that is public and created in python is the Python chatbot programme using JSON.
+Most of my projects will be in private so I would have to gives you access.
 
 ---
 
